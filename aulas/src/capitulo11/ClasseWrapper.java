@@ -1,7 +1,5 @@
 package capitulo11;
 
-import jdk.nashorn.api.tree.IfTree;
-
 public class ClasseWrapper {
 
     public static void main(String[] args) {
